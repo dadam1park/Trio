@@ -273,7 +273,6 @@
 		49239B432EEA27AD00469145 /* TempTargetCalculations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49239B422EEA27AD00469145 /* TempTargetCalculations.swift */; };
 		4984D1D42EA2939E00263E83 /* WatchConfigGarminAppConfigView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4984D1D32EA2939E00263E83 /* WatchConfigGarminAppConfigView.swift */; };
 		49B9B57F2D5768D2009C6B59 /* AdjustmentStored+Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B9B57E2D5768D2009C6B59 /* AdjustmentStored+Helper.swift */; };
-		49C782A72F73D9870062B0DD /* AlertEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C782A62F73D9870062B0DD /* AlertEntry.swift */; };
 		5075C1608E6249A51495C422 /* TargetsEditorProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BDEA2DC60EDE0A3CA54DC73 /* TargetsEditorProvider.swift */; };
 		53F2382465BF74DB1A967C8B /* PumpConfigProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8630D58BDAD6D9C650B9B39 /* PumpConfigProvider.swift */; };
 		581516A42BCED84A00BF67D7 /* DebuggingIdentifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581516A32BCED84A00BF67D7 /* DebuggingIdentifiers.swift */; };
@@ -1112,7 +1111,6 @@
 		49239B422EEA27AD00469145 /* TempTargetCalculations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempTargetCalculations.swift; sourceTree = "<group>"; };
 		4984D1D32EA2939E00263E83 /* WatchConfigGarminAppConfigView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchConfigGarminAppConfigView.swift; sourceTree = "<group>"; };
 		49B9B57E2D5768D2009C6B59 /* AdjustmentStored+Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AdjustmentStored+Helper.swift"; sourceTree = "<group>"; };
-		49C782A62F73D9870062B0DD /* AlertEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertEntry.swift; sourceTree = "<group>"; };
 		4DD795BA46B193644D48138C /* TargetsEditorRootView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = TargetsEditorRootView.swift; sourceTree = "<group>"; };
 		505E09DC17A0C3D0AF4B66FE /* ISFEditorStateModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ISFEditorStateModel.swift; sourceTree = "<group>"; };
 		581516A32BCED84A00BF67D7 /* DebuggingIdentifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DebuggingIdentifiers.swift; sourceTree = "<group>"; };
@@ -2442,7 +2440,6 @@
 				BD432CA02D2F4E3300D1EB79 /* WatchMessageKeys.swift */,
 				BDA25EFC2D261BF200035F34 /* WatchState.swift */,
 				DDFF204F2DB2C11900AB8A96 /* WatchStateSnapshot.swift */,
-				CE82E02628E869DF00473A9C /* AlertEntry.swift */,
 				19B0EF2028F6D66200069496 /* Statistics.swift */,
 				19012CDB291D2CB900FB8210 /* LoopStats.swift */,
 				FE41E4D529463EE20047FD55 /* NightscoutPreferences.swift */,
@@ -4759,7 +4756,6 @@
 				DDE179682C910127003CDDB7 /* TempBasalStored+CoreDataClass.swift in Sources */,
 				DDE179692C910127003CDDB7 /* TempBasalStored+CoreDataProperties.swift in Sources */,
 				BD4D73A22D15A42A0052227B /* TDDStorage.swift in Sources */,
-				49C782A72F73D9870062B0DD /* AlertEntry.swift in Sources */,
 				DDE1796C2C910127003CDDB7 /* OverrideRunStored+CoreDataClass.swift in Sources */,
 				DDE1796D2C910127003CDDB7 /* OverrideRunStored+CoreDataProperties.swift in Sources */,
 				DDE1796E2C910127003CDDB7 /* OrefDetermination+CoreDataClass.swift in Sources */,
