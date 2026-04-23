@@ -2384,11 +2384,7 @@
 		388E5A5925B6F0250019842D /* Models */ = {
 			isa = PBXGroup;
 			children = (
-<<<<<<< HEAD
-				49C782A62F73D9870062B0DD /* AlertEntry.swift */,
-				DDA40BB92F4DB18100257798 /* AlgorithmGlucose.swift */,
-=======
->>>>>>> parent of 91a715d62 (Merge pull request #1001 from nightscout/refactor-glucose-smoothing)
+
 				3E62C7812F54CC1600433237 /* BolusDisplayThreshold.swift */,
 				388E5A5F25B6F2310019842D /* Autosens.swift */,
 				388358C725EEF6D200E024B2 /* BasalProfileEntry.swift */,
